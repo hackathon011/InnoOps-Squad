@@ -1,2 +1,2 @@
-# InnoOps-Squad-
+# InnoOps-Squad
 InnoOps Squad Team
